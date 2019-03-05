@@ -20,4 +20,4 @@ Virksomheter som bruker denne løsningen kan enkelt peke saks-/arkivsystemet til
 NextMove er neste generasjons grensesnitt mot integrasjonspunktet. 
 
 
-Mer informasjon om grensesnittet og meldingsstandard finne [her](https://difi.github.io/eformidling/meldingsflyt.html) 
+Mer informasjon om grensesnittet, og meldingsstandard finne [her](https://difi.github.io/eformidling/meldingsflyt.html) 
